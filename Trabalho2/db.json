@@ -1,0 +1,19 @@
+{
+    "contatos":[
+        {
+            "id":1,
+            "nome":"Joao da silva",
+            "endereco":"lalalala"
+        },
+        {
+            "id":2,
+            "nome":"ana",
+            "endereco":"lalalala"
+        },
+        {
+            "id":3,
+            "nome":"Jose",
+            "endereco":"lalalala"
+        }
+    ]
+}
